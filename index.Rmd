@@ -1,0 +1,13 @@
+---
+title: "Website UAS - Hogeschool Utrecht"
+date: "`r paste('last edit:', Sys.time())`" 
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Contents
+
+ 
