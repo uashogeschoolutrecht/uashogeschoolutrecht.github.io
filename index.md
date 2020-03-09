@@ -1,6 +1,5 @@
 ---
-title: "Public content - Innovative Testing - Hogeschool Utrecht"
-date: "last edit: 2020-03-09 16:34:59" 
+date: "last edit: 2020-03-09 16:42:39" 
 output: 
   html_document: 
     keep_md: true

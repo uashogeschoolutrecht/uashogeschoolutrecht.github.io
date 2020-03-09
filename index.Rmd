@@ -1,5 +1,4 @@
 ---
-title: "Public content - Innovative Testing - Hogeschool Utrecht"
 date: "`r paste('last edit:', Sys.time())`" 
 output: 
   html_document: 
