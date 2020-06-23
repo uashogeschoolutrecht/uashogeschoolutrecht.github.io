@@ -13,4 +13,4 @@ Contents
  - [part 1 - html](https://uashogeschoolutrecht.github.io/webinars/webinar_part_1.html)
  - [part 2 - html](https://uashogeschoolutrecht.github.io/webinars/webinar_part_2.html)
  - [part 1 - PowerPoint](https://uashogeschoolutrecht.github.io/webinars/webinar_part_1.pptx)
- - [part 2 - PowerPoint](https://uashogeschoolutrecht.github.io/webinars/webinar_part_2.pttx)
+ - [part 2 - PowerPoint](https://uashogeschoolutrecht.github.io/webinars/webinar_part_2.pptx)
