@@ -7,3 +7,8 @@ Contents
     published, once the paper is accepted.
 
 2.  [krona-plot](https://uashogeschoolutrecht.github.io/krona/krona_taxonomy.html)
+
+3.  Kenniscentrum Academy Webinars
+
+ - [part 1](https://uashogeschoolutrecht.github.io/krona/webinar_part_1.html)
+ - [part 2](https://uashogeschoolutrecht.github.io/krona/webinar_part_1.html)
