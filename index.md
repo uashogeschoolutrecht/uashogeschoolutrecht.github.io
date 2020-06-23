@@ -11,4 +11,4 @@ Contents
 3.  Kenniscentrum Academy Webinars
 
  - [part 1](https://uashogeschoolutrecht.github.io/webinars/webinar_part_1.html)
- - [part 2](https://uashogeschoolutrecht.github.io/webinars/webinar_part_1.html)
+ - [part 2](https://uashogeschoolutrecht.github.io/webinars/webinar_part_2.html)
